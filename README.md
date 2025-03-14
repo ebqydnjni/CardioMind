@@ -2,7 +2,7 @@
 # **Projet d'Analyse des Maladies Cardiaques : CardioMind**
 
 ##  **Professeur :**
-- **ZOUGAGH NISRINE** 🌟
+- **  Dr ZOUGAGH NISRINE** 🌟
 
 ### 🎓 **Matière** : Visualisation des Donnes 
 
